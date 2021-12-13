@@ -1,0 +1,26 @@
+#CreateAcc{
+	background-color:skyblue;
+	width:50%;
+	border:3px solid green
+	margin:auto;
+	text-align:center;
+	padding:10px;
+	position:absolute;
+	top:20%;	
+	left:20%;
+	
+	
+		//curved div
+	border-top-left-radius:25px;
+	border-top-right-radius:25px;
+	border-bottom-right-radius:25px;
+	border-bottom-left-radius:25px;
+
+	}
+input{
+	padding:10px;
+	background-color:silver;
+}
+#head{
+	position:absolute;
+	}	
